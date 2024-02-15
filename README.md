@@ -16,3 +16,5 @@ Here's how you can use NHunspell in your C# console application:
    Compile and run your C# console application. It will load the dictionary files and check the spelling of the words you provide.
 
 NHunspell provides more advanced features such as adding custom dictionaries, checking compound words, and more. You can refer to the NHunspell documentation for further details and usage examples: https://github.com/hunspell/nhunspell
+
+Current path for .aff and .dic file  - /bin/debug
